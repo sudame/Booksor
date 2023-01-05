@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Booksor</string>
+    <string name="cannot_access_camera">カメラにアクセスできません</string>
+    <string name="please_allow_camera_access">アプリを再起動して、カメラにアクセスする権限を許可してください</string>
+    <string name="ok">OK</string>
+    <string name="open_web_page">webページを開く</string>
+</resources>
